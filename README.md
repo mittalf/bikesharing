@@ -26,7 +26,7 @@ Some of the questions to ask are:
 
 Tableau NYC Citi Bike Dashboard:
 
-[NYC Citi Bike Dashboard](https://public.tableau.com/app/profile/falguni.mittal/viz/NYCCitiBikeDashboard_16423750428630/NYCCitiBikeDashboard?publish=yes)
+[NYC Citi Bike Dashboard](https://public.tableau.com/app/profile/falguni.mittal/viz/NYCCitiBikeDashboard_16423750428630/NYCCitiBikeDashboard)
 
 ### Purpose
 
@@ -94,4 +94,3 @@ Additional Suggested Visualizations:
 - Starting Location by Age
 - Starting Locations for bikes with longest trips
 - Average age of user type (Subscriber or Customer) 
-- 
